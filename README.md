@@ -1,12 +1,5 @@
 <h1 align="left">Gustavo Castanha</h1>
 
-<p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=8B949E&width=600&lines=C+•+Python+•+AI+Fundamentals+•+Computer+Vision"
-    alt="Typing SVG"
-  />
-</p>
-
 ###
 
 <p align="left">
