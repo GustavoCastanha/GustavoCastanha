@@ -1,33 +1,10 @@
 <h1 align="left">Gustavo Castanha</h1>
 
 <p align="left">
-  <svg width="650" height="40" viewBox="0 0 650 40" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .typing {
-        font: 500 18px 'Segoe UI', Ubuntu, Sans-Serif;
-        fill: #8b949e;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 2px solid #8b949e;
-        animation: typing 4s steps(40, end) infinite,
-                   blink 0.8s step-end infinite;
-      }
-
-      @keyframes typing {
-        0% { width: 0 }
-        50% { width: 100% }
-        100% { width: 0 }
-      }
-
-      @keyframes blink {
-        50% { border-color: transparent }
-      }
-    </style>
-
-    <text x="0" y="25" class="typing">
-      C • Python • AI fundamentals • Computer Vision
-    </text>
-  </svg>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=8B949E&width=600&lines=C+•+Python+•+AI+Fundamentals+•+Computer+Vision"
+    alt="Typing SVG"
+  />
 </p>
 
 ###
@@ -82,8 +59,12 @@ Este GitHub reúne meus estudos, exercícios e projetos em andamento, acompanhan
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-castanha-7a7337327/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52" height="40" alt="linkedin logo"/>
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="linkedin logo"
+    />
   </a>
 </div>
 
