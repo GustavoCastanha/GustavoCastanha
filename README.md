@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Sou estudante de tecnologia na <b>Universidade Federal da Fronteira Sul (UFFS)</b> e desenvolvedor em formação, com foco em programação em <b>C e Python</b>.
+Sou estudante de tecnologia na <b>Universidade Federal da Fronteira Sul (UFFS)</b> e desenvolvedor em formação, com foco em programação em <b> Python</b>.
 Atualmente estudo e pratico conceitos de <b>inteligência artificial</b> e <b>visão computacional</b>, buscando aplicar o aprendizado em projetos simples e funcionais.
 <br><br>
 Tenho interesse em:
