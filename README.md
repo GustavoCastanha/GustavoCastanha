@@ -8,7 +8,7 @@ Atualmente estudo e pratico conceitos de <b>inteligência artificial</b> e <b>vi
 <br><br>
 Tenho interesse em:
 <br><br>
-• Programação em Python e C  
+• Programação em Python
 <br>
 • Fundamentos de IA e processamento de imagens  
 <br>
